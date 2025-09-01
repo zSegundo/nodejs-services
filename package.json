@@ -1,0 +1,13 @@
+{
+  "name": "hola-mundo-vercel",
+  "version": "1.0.0",
+  "description": "Servicio Hola Mundo para Vercel",
+  "main": "api/index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build needed'"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
